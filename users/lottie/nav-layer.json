@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "a": 7
+    },
+    "ESC",
+    "LOCK",
+    "INS",
+    "",
+    "",
+    "",
+    {
+      "x": 1
+    },
+    "NLCK",
+    "APP",
+    "",
+    "",
+    "",
+    "TAB"
+  ],
+  [
+    "NUM",
+    "GUI",
+    "ALT",
+    "CTR",
+    "SHFT",
+    "",
+    {
+      "x": 1
+    },
+    "CAPS",
+    "<",
+    "\\/",
+    "/\\",
+    ">",
+    "FUN"
+  ],
+  [
+    "DEL",
+    "Undo",
+    "Cut",
+    "Copy",
+    "Paste",
+    "Again",
+    {
+      "x": 1
+    },
+    "CTR BSPC",
+    "HOME",
+    "PGDN",
+    "PGUP",
+    "END",
+    "ENT"
+  ],
+  [
+    {
+      "x": 3
+    },
+    "LMOD",
+    "S",
+    "SYS",
+    {
+      "x": 1
+    },
+    "BSPC",
+    "SPC",
+    "RMOD"
+  ]
+]
